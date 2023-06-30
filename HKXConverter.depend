@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1305411898 source:d:\sonicgenerationsmodding\hkxconverter\tinystr.cpp
+	"tinystr.h"
+
+1305411898 d:\sonicgenerationsmodding\hkxconverter\tinystr.h
+	<assert.h>
+	<string.h>
+
+1333072392 source:d:\sonicgenerationsmodding\hkxconverter\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1326054109 d:\sonicgenerationsmodding\hkxconverter\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305411898 source:d:\sonicgenerationsmodding\hkxconverter\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305411898 source:d:\sonicgenerationsmodding\hkxconverter\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+

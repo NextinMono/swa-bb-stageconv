@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="main.cpp" open="1" top="1" tabpos="0">
+		<Cursor position="4424" topLine="1227" />
+	</File>
+	<File name="tinyxml.h" open="0" top="0" tabpos="0">
+		<Cursor position="38526" topLine="1049" />
+	</File>
+</CodeBlocks_layout_file>
